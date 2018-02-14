@@ -1,5 +1,4 @@
 # 2.13.2018Group
 
-# Olivia
-
-This is Olivia's section.
+ favorite book <- INFO201
+ Second favorite <- 1984
